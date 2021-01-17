@@ -1,7 +1,7 @@
-var images_Array = ["images/father.jpg",
-"images/mother.jfif",
-"images/sister.jpg",
-"images/brother.jfif"];
+var images_Array = ["father.jpg",
+"mother.jfif",
+"sister.jpg",
+"brother.jfif"];
 
     function Next() {
         min = 0;
